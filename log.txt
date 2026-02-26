@@ -1,0 +1,3 @@
+User login from john.doe@gmail.com at 10:45 AM
+Failed login attempt for admin@company.org
+Contact support at helpdesk123@service.co.in
